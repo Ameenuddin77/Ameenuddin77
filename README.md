@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ameenuddin77
+# 👋 Hi, I’m Ameenuddin
 
 - 👀 **Interests**: I’m interested in **Cloud Computing, DevOps,** and **Machine Learning**.
 - 🌱 **Currently Learning**: 
