@@ -15,7 +15,9 @@
 ---
 
 🌟 **About Me**:
-I’m currently a 7th-semester student aiming to graduate in **July 2025**. As a beginner passionate about tech, I'm continuously exploring and learning new tools to deepen my skills. Right now, I'm building a strong foundation in **DevOps** and **Cloud Computing** while also getting hands-on with **Machine Learning**.
+ I’m a final-year student with a strong drive to explore and master tech skills. I'm continuously building expertise in **DevOps** and **Cloud Computing** and gaining hands-on experience in **Machine Learning**. Adaptable and open to new challenges, I’m dedicated to expanding my skill set and staying versatile in the tech world.
+
+
 
 🌐 **Connect with Me**:
 Feel free to connect via LinkedIn or drop me an email!
